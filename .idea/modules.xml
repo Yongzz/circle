@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/area/area.iml" filepath="$PROJECT_DIR$/area/area.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circleWithSFW.iml" filepath="$PROJECT_DIR$/circleWithSFW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circumference/circumference.iml" filepath="$PROJECT_DIR$/circumference/circumference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diameter/diameter.iml" filepath="$PROJECT_DIR$/diameter/diameter.iml" />
+    </modules>
+  </component>
+</project>
